@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/AddTasks.iml
+/.idea/
