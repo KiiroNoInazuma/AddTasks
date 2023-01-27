@@ -24,7 +24,6 @@ public class CountLines {
 
     public static void main(String[] args) {
         new CountLines(sc.nextLine());
-
     }
 }
 
