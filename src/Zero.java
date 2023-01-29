@@ -8,7 +8,6 @@ public class Zero {
         }
         return map;
     }
-
     public static void main(String[] args) {
         Map<Object, Object> map = new HashMap<>();
         map.put("Test", 'c');
